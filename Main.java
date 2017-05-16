@@ -34,8 +34,6 @@ public class Main {
             num++;
         }
 
-        System.out.println(output1.length);
-
         BufferedImage img = new BufferedImage(128, 128, BufferedImage.TYPE_INT_RGB);
 
         //Create and populate the pixels
